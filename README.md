@@ -4,7 +4,7 @@ A small raycasting project in **TypeScript** using **HTML Canvas** for a simple 
 
 🎬 **Demo:**
 
-![Demo Raycasting](demo.gif)
+![Demo Raycasting](demo.webm)
 
 ## Running the project
 
