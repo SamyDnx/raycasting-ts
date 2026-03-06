@@ -4,9 +4,7 @@ A small raycasting project in **TypeScript** using **HTML Canvas** for a simple 
 
 🎬 **Demo:**
 
-<video width="600" controls>
-  <source src="demo.mp4" type="video/mp4">
-</video>
+![Demo Raycasting](demo.gif)
 
 ## Running the project
 
