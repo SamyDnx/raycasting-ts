@@ -5,7 +5,7 @@ A small raycasting project in **TypeScript** using **HTML Canvas** for a simple 
 🎬 **Demo:**
 
 <video width="600" controls>
-  <source src="raycasting-demo.webm" type="video/webm">
+  <source src="demo.gif" type="video/webm">
   Your browser does not support the video.
 </video>
 
