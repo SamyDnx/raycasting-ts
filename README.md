@@ -11,7 +11,7 @@ A small raycasting project in **TypeScript** using **HTML Canvas** for a simple 
 1. Clone the repo:
 
 ```bash
-git clone https://github.com/YourUsername/your-project.git
+git clone https://github.com/SamyDnx/raycasting-ts.git
 ```
 
 2. Open `index.html` in a browser.
