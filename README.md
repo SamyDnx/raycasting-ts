@@ -14,7 +14,7 @@ If you just want to see how it works or explore the code:
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/SamyDnx/raycasting-ts.git](https://github.com/SamyDnx/raycasting-ts.git)
+   git clone https://github.com/SamyDnx/raycasting-ts.git
    cd raycasting-ts
    ```
 
